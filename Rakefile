@@ -18,7 +18,7 @@ Cobregratis::Base.user = 'your_api_password'
                           }
     gem.email = "contato@rafael.adm.br"
     gem.homepage = "http://github.com/rafaelp/cobregratis"
-    gem.authors = ["Rafael Lima"]
+    gem.authors = ["Rafael Lima", "Vanderson Mota"]
     gem.add_development_dependency "rspec", ">= 1.2.9"
     gem.add_dependency('activeresource', '>= 2.1')
     gem.add_dependency('activesupport', '>= 2.1')
